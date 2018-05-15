@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c3eb3ce3e71623e6d613.js",
-      "component---src-pages-index-js-c3eb3ce3e71623e6d613.js.map"
+      "component---src-pages-index-js-25342e7706c20be894ec.js",
+      "component---src-pages-index-js-25342e7706c20be894ec.js.map"
     ],
     "path---react-tex": [
       "path---react-tex-0dbb3841d7976899e3da.js",
@@ -37,12 +37,12 @@
       "path---tags-express-451b4ccfe140f59e0434.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-e908c723fbab22a7768b.js",
-      "component---src-layouts-index-js-e908c723fbab22a7768b.js.map"
+      "component---src-layouts-index-js-c83300460069e535b55d.js",
+      "component---src-layouts-index-js-c83300460069e535b55d.js.map"
     ],
     "path---loopback-insert-many": [
-      "path---loopback-insert-many-7822353916eae17ce5ab.js",
-      "path---loopback-insert-many-7822353916eae17ce5ab.js.map"
+      "path---loopback-insert-many-3a5b6dbff19b5b9dee40.js",
+      "path---loopback-insert-many-3a5b6dbff19b5b9dee40.js.map"
     ],
     "path---index": [
       "path---index-216797cb068c9c803fae.js",
@@ -63,8 +63,8 @@
       "build-js-styles.css.map"
     ],
     "path---myfiles": [
-      "path---myfiles-15856e1edb2577551a26.js",
-      "path---myfiles-15856e1edb2577551a26.js.map"
+      "path---myfiles-bf37aa7b7803506b8100.js",
+      "path---myfiles-bf37aa7b7803506b8100.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -105,8 +105,8 @@
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-63a6003959eef8e8151f.js",
-      "component---src-pages-about-js-63a6003959eef8e8151f.js.map"
+      "component---src-pages-about-js-07b9678c21d51da2aa5d.js",
+      "component---src-pages-about-js-07b9678c21d51da2aa5d.js.map"
     ],
     "path---about": [
       "path---about-805445b78cd165853923.js",
