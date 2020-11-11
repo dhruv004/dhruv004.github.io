@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{537:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"D:/Blog/gatsby-blog/src/pages/reactTex.md absPath of file >>> MarkdownRemark",frontmatter:{title:"React-Tex",date:"05 July, 2017"},fields:{slug:"/reactTex/"},excerpt:"Install Using 1.In your component Output: Available props for Tex are: texContent :  string . Latex string . (default:   ) For Inline…"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-40636f4b0dafd447e1aa.js.map
