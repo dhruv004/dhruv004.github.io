@@ -1,2 +1,0 @@
-webpackJsonp([0xf927f8900006],{371:function(e,a){e.exports={data:{allFile:{edges:[{node:{publicURL:"/static/resume-ad6ee606b1e67e83819d1dd2a4da1240.pdf"}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---about-805445b78cd165853923.js.map
